@@ -30,7 +30,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite, React and TypeScript logos to learn more
+        Click on the Vite, React, TypeScript and Sass logos to learn more
       </p>
     </>
   )
